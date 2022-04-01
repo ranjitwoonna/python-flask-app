@@ -56,7 +56,7 @@ pipeline {
             input {
                 message "Do you want to Promote the Build to Production"
                 ok "Ok"
-                submitter "pathinishant@gmail.com"
+                submitter "ranjit@gmail.com"
                 submitterParameter "whoIsSubmitter"
                 
             }
